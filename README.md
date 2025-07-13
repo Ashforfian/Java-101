@@ -1,4 +1,3 @@
-```markdown
 # Java 101 - Patika.dev Training Projects
 
 This repository contains all the exercises, homework, and the final project completed as part of the "Java 101" beginner-level training program on the [Patika.dev](https://www.patika.dev) platform. Each folder represents a specific topic from the curriculum and holds the corresponding Java code.
@@ -22,5 +21,5 @@ The table below outlines the modules and their contents within this repository.
 
 You can navigate to any folder to review the code for a specific topic. If you want to run the projects on your local machine, you can clone the repository:
 
-```bash
+
 git clone [https://github.com/yusufkeremsahan/Java-101.git](https://github.com/yusufkeremsahan/Java-101.git)
